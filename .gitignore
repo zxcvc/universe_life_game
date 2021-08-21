@@ -6,4 +6,4 @@ wasm-pack.log
 
 node_modules
 
-/**/node_modules
+**/**/node_modules
